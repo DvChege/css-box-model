@@ -29,7 +29,7 @@ Open index.html: Open the file in any modern web browser to view the styled webp
 Technologies Used
 HTML5
 
-CSS3
+CSS
 
 Google Fonts (Montserrat)
 
